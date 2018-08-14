@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    text-align: center;
+    /* font-size: 3rem; */
+    background-color: #2c323c;
+    /* background-image: url(/4de356f…/00972/assets/images/geometry.svg); */
+    /* text-decoration: underline; */
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 70px;
+    padding-top: 10px;
+  }
