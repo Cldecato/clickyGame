@@ -69,7 +69,7 @@ class App extends Component {
 
   render() {
     return (
-      <Wrapper>
+      <div className="wholeScreen">
         <Navbar
          currentScore={this.state.currentScore}
          topScore={this.state.topScore}
@@ -86,7 +86,7 @@ class App extends Component {
             />
           ))}
         </Wrapper>
-      </Wrapper>
+      </div>
     );
   }
 }
